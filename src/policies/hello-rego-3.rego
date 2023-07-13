@@ -1,4 +1,4 @@
-package policies.hello
+package policies.hello3
 
 # default to a "closed" system, 
 # only grant access when explicitly granted
